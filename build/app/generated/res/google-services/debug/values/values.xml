@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">550349653767</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_Z6rswtD5BlX-paVOIJKo_58zHQFXPCg</string>
+    <string name="google_app_id" translatable="false">1:550349653767:android:47e2ec0bfd3dff7a2b67a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_Z6rswtD5BlX-paVOIJKo_58zHQFXPCg</string>
+    <string name="google_storage_bucket" translatable="false">flutternotilocalandremote.appspot.com</string>
+    <string name="project_id" translatable="false">flutternotilocalandremote</string>
+</resources>

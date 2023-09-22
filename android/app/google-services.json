@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550349653767",
+    "project_id": "flutternotilocalandremote",
+    "storage_bucket": "flutternotilocalandremote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550349653767:android:47e2ec0bfd3dff7a2b67a2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notification_localandremote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Z6rswtD5BlX-paVOIJKo_58zHQFXPCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
