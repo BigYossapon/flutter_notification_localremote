@@ -12,6 +12,12 @@ dart pub global activate flutterfire_cli
 firebase login 
 flutterfire configure
 
+https://www.youtube.com/watch?v=Hg1ZJjWzRxs
+
+for ios xcode set push notification and background selected fetch and process 
+allow cer for  push service 
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
