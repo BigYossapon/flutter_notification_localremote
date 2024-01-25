@@ -23,7 +23,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+if error registered ios and mac in bundle should not _ 
 1.create firebase message command terminal if dont have firebase cli cmd $ curl -sL https://firebase.tools | bash 2.firebase login 3.dart pub global activate flutterfire_cli 4.you will get export....something and get it to cmd 5.flutterfire configure 6.select your project 7.and select your platform will create all platform u select 
 
 pubget 
