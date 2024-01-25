@@ -4,6 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
+install nodejs 
+create project in firebase 
+check -npm -v and node -v
+npm install -g firebase-tools
+dart pub global activate flutterfire_cli
+firebase login 
+flutterfire configure
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
